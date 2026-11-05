@@ -1,0 +1,6 @@
+# robots.txt para https://www.duendefunk.com/
+User-agent: *
+Allow: /
+
+# Ubicación del Sitemap
+Sitemap: https://www.duendefunk.com/sitemap.xml
